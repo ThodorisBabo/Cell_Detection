@@ -39,8 +39,8 @@ pip install opencv-python numpy tqdm
 
 ## Example Results
 **Input Image (Noisy):**  
-![Noisy Image](imgs/noisy_input.png)
+![Noisy Image](images/noisy_input.png)
 
 **Output Image (Cells Detected):**  
-![Detected Cells](imgs/final_processed.png)
+![Detected Cells](images/final_processed.png)
 
