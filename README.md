@@ -18,25 +18,6 @@ This project focuses on detecting cells from grayscale microscopic images that c
 ├── README.md                # Project documentation
 ```
 
-## Installation & Requirements
-Ensure you have Python installed along with the following dependencies:
-```bash
-pip install opencv-python numpy tqdm
-```
-
-## Usage
-1. **Run Median Filter to Reduce Noise:**
-   ```bash
-   python median_filter.py
-   ```
-   This will display and save the filtered image.
-
-2. **Run Cell Detection and Labeling:**
-   ```bash
-   python cell_detection.py
-   ```
-   This will output an image with detected cells and their bounding boxes.
-
 ## Example Results
 **Input Image (Noisy):**  
 ![Noisy Image](images/noisy_input.png)
