@@ -44,14 +44,3 @@ pip install opencv-python numpy tqdm
 **Output Image (Cells Detected):**  
 ![Detected Cells](imgs/final_processed.png)
 
-## Future Improvements
-- Improve segmentation by experimenting with adaptive thresholding.
-- Implement deep learning-based segmentation for better accuracy.
-- Enhance filtering to reduce false detections.
-
-## License
-This project is open-source under the MIT License.
-
-## Author
-[Your Name] - Feel free to reach out for any questions!
-
