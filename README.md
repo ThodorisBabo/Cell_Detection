@@ -39,10 +39,10 @@ pip install opencv-python numpy tqdm
 
 ## Example Results
 **Input Image (Noisy):**  
-![Noisy Image](images/noisy_image.png)
+![Noisy Image](imgs/noisy_input.png)
 
 **Output Image (Cells Detected):**  
-![Detected Cells](images/detected_cells.png)
+![Detected Cells](imgs/final_processed.png)
 
 ## Future Improvements
 - Improve segmentation by experimenting with adaptive thresholding.
